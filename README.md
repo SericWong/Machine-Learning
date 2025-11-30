@@ -24,7 +24,7 @@
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 [线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
-[统计入门](http://open.163.com/movie/2025-11-24/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
+[统计入门](http://open.163.com/movie/2025-12-01/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
 [概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
 矩阵论 | 暂无 | [矩阵论](https://www.amazon.cn/%E7%9F%A9%E9%98%B5%E8%AE%BA-%E6%88%B4%E5%8D%8E/dp/B00116BRO0/ref=sr_1_1?s=books&ie=UTF8&qid=1478614198&sr=1-1&keywords=%E6%88%B4%E5%8D%8E%EF%BC%8C+%E7%9F%A9%E9%98%B5%E8%AE%BA) | 暂无 
@@ -46,7 +46,7 @@ Matlab程序语言设计| 暂无 | 暂无 | 暂无
 [单变量微积分](http://open.163.com/movie/2006/8/M/L/M6GLI5A07_M6GLJH1ML.html) |  MIT | [Calculus with Analytic Geometry](https://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20)  | [链接](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/) 
 [多变量微积分](http://open.163.com/special/opencourse/multivariable.html)  |  MIT | [Multivariable Calculus](https://www.amazon.com/exec/obidos/ASIN/0130339679/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
 [线性代数](http://open.163.com/special/opencourse/daishu.html)| MIT | [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/) |  [链接](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials/)
-[统计入门](http://open.163.com/movie/2025-11-24/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
+[统计入门](http://open.163.com/movie/2025-12-01/0/M82IC6GQU_M83J9IK60.html) | 可汗学院 | 暂无 | 暂无
 概率论入门: [链接1](http://mooc.guokr.com/course/461/%E6%A9%9F%E7%8E%87/),[链接2](https://www.youtube.com/watch?v=GwSEguqJj6U&index=1&list=PLtvno3VRDR_jMAJcNY1n4pnP5kXtPOmVk)| NTU | 暂无 | 暂无
 [概率与统计](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc)| MIT | [Introduction to Probability](https://www.amazon.com/exec/obidos/ASIN/188652923X/ref=nosim/mitopencourse-20) | [链接](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/tutorials/)
 
